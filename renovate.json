@@ -13,6 +13,9 @@
     {
       "packagePatterns": ["^golang.org/x/"],
       "schedule": ["on the first day of the month"]
+    },
+    {
+      "matchUpdateTypes": ["minor", "patch", "pin", "digest"]
     }
   ],
   "hostRules": [
