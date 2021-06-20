@@ -1,7 +1,6 @@
 {
   "assignees": ["@AmirSoTest"],
   "fetchReleaseNotes": true,
-  "baseBranches": ["master"],
   "extends": [
     "config:base"
   ],
