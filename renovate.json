@@ -14,6 +14,7 @@
       "schedule": ["on the first day of the month"]
     },
     {
+      "packagePatterns": ["^github.com/bigheadxyz/hashgen/"],
       "matchUpdateTypes": ["minor", "patch", "pin", "digest"]
     }
   ],
